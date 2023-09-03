@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+# 👁 About Me:
 ✨ An aspiring Software Developer ✨<br>
 🏫 I’m a Computer Science Student at Polytechnic University of the Philippines - Manila.<br>
 💻 I’m currently learning React and Tailwind.<br>
