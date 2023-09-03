@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 💫 About Me:
+✨ An aspiring Software Developer ✨<br>
+🏫 I’m a Computer Science Student at Polytechnic University of the Philippines - Manila.<br>
+💻 I’m currently learning React and Tailwind.<br>
+🕵🏼‍♂️ I’m interested in Reading, Games, and Coding. 
+
+
 <!-- # 📊 GitHub Stats: -->
 ![](https://github-readme-stats.vercel.app/api?username=prince-bojji&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prince-bojji&theme=dark&hide_border=false)<br/>
