@@ -1,4 +1,4 @@
-### Hi there, I'm Jehan! 👋
+### Hi there, I'm Grace! 👋
 
 # 👨‍💼 About Me:
 ✨ An aspiring Java Developer ✨<br>
