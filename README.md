@@ -2,7 +2,7 @@
 
 # 👨‍💼 About Me:
 ✨ An aspiring Java Developer ✨<br>
-🏫 I’m a Computer Science Student at Polytechnic University of the Philippines - Manila.<br>
+🏫 I’m a Computer Science Graduate at Polytechnic University of the Philippines - Manila.<br>
 💻 I’m currently learning Spring Boot.<br>
 🕵🏼‍♂️ I’m interested in Reading, Games, and Coding. 
 
