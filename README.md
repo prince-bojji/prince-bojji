@@ -1,8 +1,8 @@
 ### Hi there, I'm Jehan! 👋
 
 # 👨‍💼 About Me:
-✨ I'm a Backend Developer ✨<br>
-🏫 I’m a Computer Science Graduate at Polytechnic University of the Philippines - Manila.<br>
+✨ I'm a Backend Developer. ✨<br>
+🏫 I’m a Computer Science Graduate.<br>
 💻 I’m currently learning Spring Boot.<br>
 🕵🏼‍♂️ I’m interested in Reading, Games, and Coding. 
 
